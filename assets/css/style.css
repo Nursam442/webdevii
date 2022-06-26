@@ -43,3 +43,32 @@ body{
 	width: 100%;
 	border-radius: 1rem;
 }
+
+
+
+
+
+
+.section-header{
+	font-weight: bold;
+	color: var(--clr-dark);
+}
+
+
+
+.image-box {
+	height: 250px;
+}
+
+.image-box img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+.text-align-center{
+	font-size: medium;
+}
+i{
+	font-size: small;
+}
